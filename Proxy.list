@@ -91,6 +91,7 @@ DOMAIN-SUFFIX,colaotc.com
 DOMAIN-SUFFIX,wallhaven.cc
 DOMAIN-SUFFIX,ping0.cc
 DOMAIN-SUFFIX,downloadhelper.net
+DOMAIN-SUFFIX,ip.sb
 
 
 IP-CIDR,8.8.8.8/32,no-resolve
