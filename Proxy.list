@@ -93,8 +93,12 @@ DOMAIN-SUFFIX,ping0.cc
 DOMAIN-SUFFIX,downloadhelper.net
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,astrill.com
+
 #域名
 DOMAIN,ip.sb
+DOMAIN,iwanlab.com
+
+
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
