@@ -16,7 +16,7 @@ DOMAIN-SUFFIX,doh.dns.sb
 DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
-DOMAIN-SUFFIX,instagram.com
+
 
 # 其他网站
 DOMAIN-SUFFIX,polymarket.com
@@ -94,6 +94,7 @@ DOMAIN-SUFFIX,ping0.cc
 DOMAIN-SUFFIX,downloadhelper.net
 DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,astrill.com
+DOMAIN-SUFFIX,instagram.com
 
 #域名
 DOMAIN,ip.sb
