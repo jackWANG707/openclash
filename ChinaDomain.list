@@ -1,7 +1,12 @@
 # 直连列表
 
 #FreeCloud直连
-DOMAIN-KEYWORD,freecloud.ltd
+DOMAIN,freecloud.ltd
+DOMAIN,web.freecloud.ltd
+DOMAIN,nat.freecloud.ltd
+DOMAIN,run.freecloud.ltd
+DOMAIN,panel.freecloud.ltd
+
 
 # MyList
 DOMAIN-SUFFIX,13th.tech
